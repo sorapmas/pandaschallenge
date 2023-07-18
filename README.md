@@ -18,5 +18,7 @@ Based off of the data given we're comparing two school types(Charter & District)
 <img width="885" alt="Screenshot 2023-07-18 at 12 22 16 AM" src="https://github.com/sorapmas/pandaschallenge/assets/128443029/b6989254-984a-41d8-a4b6-9c862a5f7c53">
 
 
-#*Please note i've recieved tutor assistance when it came to displaying school summmary and rewriting plus formatting the top 5 and bottom 5.
+
+
+***Please note i've recieved tutor assistance when it came to displaying school summmary and rewriting plus formatting the top 5 and bottom 5.***
 
