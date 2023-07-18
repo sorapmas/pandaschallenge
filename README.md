@@ -11,3 +11,9 @@ This repository is a coded analysis with numerous amounts of dataframes with the
 
 #### WRITTEN ANALYSIS
 Based off of the data given we're comparing two school types(Charter & District), amongst plenty of students based off of their grades in math and reading, along with the student and school budget. There's obviously plenty of more factors that make up the numerous datasets that are shown. What we conclude from top 5 overall passing rate, at least with the chart that shows all of the charter school listed is that the students from each school are able to average over 80% in both the average and passing, reading and math columns. Even their overall passing rate comes to about 90% for each of these schools. As for the top 5 district schools, their numbers are a little wonky their averages and passing rates are extremely well in reading hitting over about 80% but the students aren't doing too well when it comes to math. Their numbers for averages go in the 70s while the passing is from mid to high 60s. School placement seems to be a big factor as to how well students can do academically but there are other factors that could potentially play a role as well, such as how they are being taught, IQ, mental health, etc.
+
+![image]<img width="889" alt="Screenshot 2023-07-18 at 12 21 29 AM" src="https://github.com/sorapmas/pandaschallenge/assets/128443029/96bcedab-6696-43f1-83ec-35975125935d">
+
+![image]<img width="885" alt="Screenshot 2023-07-18 at 12 22 16 AM" src="https://github.com/sorapmas/pandaschallenge/assets/128443029/b6989254-984a-41d8-a4b6-9c862a5f7c53">
+
+
